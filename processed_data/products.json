@@ -1,0 +1,51 @@
+[
+  {
+    "code": "03",
+    "name": "CEM I 42,5N S",
+    "revenue": 125436628.19,
+    "quantity": 478265.0,
+    "orders": 19866
+  },
+  {
+    "code": "33",
+    "name": "CEMII/A-L32,5NS",
+    "revenue": 121263949.53,
+    "quantity": 478452.0,
+    "orders": 18021
+  },
+  {
+    "code": "01",
+    "name": "CEMII/A-L42,5NS",
+    "revenue": 48614570.28,
+    "quantity": 179383.0,
+    "orders": 9344
+  },
+  {
+    "code": "27",
+    "name": "CLINKER",
+    "revenue": 2325904.49,
+    "quantity": 14636.4,
+    "orders": 335
+  },
+  {
+    "code": "25",
+    "name": "CLINKER HANACEM",
+    "revenue": 1477288.33,
+    "quantity": 44994.61,
+    "orders": 991
+  },
+  {
+    "code": "04",
+    "name": "CEM I 42,5N V",
+    "revenue": 1199889.93,
+    "quantity": 10518.11,
+    "orders": 233
+  },
+  {
+    "code": "02",
+    "name": "CEMII/A-L42,5NV",
+    "revenue": 51028.7,
+    "quantity": 216.46,
+    "orders": 14
+  }
+]

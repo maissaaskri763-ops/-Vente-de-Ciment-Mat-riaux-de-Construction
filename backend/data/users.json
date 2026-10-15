@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user-admin",
+    "username": "admin",
+    "displayName": "System Administrator",
+    "role": "admin",
+    "passwordHash": "$2b$12$OFJHOKXYiY3ARAaSLNHr/Oh24P6IPis1qAYLGulFRRL.Bjtur/Ybu"
+  },
+  {
+    "id": "user-manager",
+    "username": "manager",
+    "displayName": "Sales Manager",
+    "role": "manager",
+    "passwordHash": "$2b$12$/0dTSOda8hV3XO1vPLd8h.JFs80uF1K8bA09K/jyQV6D0SF1N9zZW"
+  },
+  {
+    "id": "user-analyst",
+    "username": "analyst",
+    "displayName": "Sales Analyst",
+    "role": "analyst",
+    "passwordHash": "$2b$12$srUYjootTGHB.QxNcNNLhuGLj8DUZvu2bLDivJ5kF7LRHrNiXQWy."
+  }
+]

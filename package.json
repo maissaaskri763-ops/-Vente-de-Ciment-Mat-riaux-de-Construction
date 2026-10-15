@@ -1,0 +1,17 @@
+{
+  "name": "vent-app",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "predev": "node scripts/clear-ports.js",
+    "dev": "concurrently -k \"npm --prefix backend run dev\" \"npm --prefix frontend run dev\"",
+    "prestart": "node scripts/clear-ports.js",
+    "start": "concurrently -k \"npm --prefix backend run start\" \"npm --prefix frontend run dev\"",
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.1"
+  }
+}

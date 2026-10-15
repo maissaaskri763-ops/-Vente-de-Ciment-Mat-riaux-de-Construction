@@ -1,0 +1,17 @@
+# Local credentials
+backend/.env
+
+# Dependencies and generated files
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+backend/uploads/
+
+# Build output and local logs
+frontend/dist/
+frontend/*.log
+*.log
+
+# Generated archives and private source workbook
+*.zip
+vente.xlsx

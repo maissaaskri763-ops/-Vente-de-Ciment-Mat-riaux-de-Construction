@@ -1,0 +1,7 @@
+.git
+.local-logs
+node_modules
+**/node_modules
+frontend/dist
+backend/uploads
+**/.env

@@ -1,0 +1,93 @@
+[
+  {
+    "code": "3",
+    "abbreviation": "CEM I 42,5N S",
+    "name": "CEM I 42,5N S",
+    "revenue": 125436628.19,
+    "quantity": 478265.0,
+    "orders": 19866,
+    "avg_price_per_ton": 262.27,
+    "min_price_per_ton": 38.0,
+    "max_price_per_ton": 289.0,
+    "unique_customers": 81,
+    "market_share_pct": 41.76
+  },
+  {
+    "code": "33",
+    "abbreviation": "CEMII/A-L32,5NS",
+    "name": "CEMII/A-L32,5NS",
+    "revenue": 121263949.53,
+    "quantity": 478452.0,
+    "orders": 18021,
+    "avg_price_per_ton": 253.45,
+    "min_price_per_ton": 162.4,
+    "max_price_per_ton": 271.0,
+    "unique_customers": 68,
+    "market_share_pct": 40.37
+  },
+  {
+    "code": "1",
+    "abbreviation": "CEMII/A-L42,5NS",
+    "name": "CEMII/A-L42,5NS",
+    "revenue": 48614570.28,
+    "quantity": 179383.0,
+    "orders": 9344,
+    "avg_price_per_ton": 271.01,
+    "min_price_per_ton": 212.7,
+    "max_price_per_ton": 278.0,
+    "unique_customers": 40,
+    "market_share_pct": 16.18
+  },
+  {
+    "code": "28",
+    "abbreviation": "CLINKER",
+    "name": "CLINKER",
+    "revenue": 2325904.49,
+    "quantity": 14636.4,
+    "orders": 335,
+    "avg_price_per_ton": 158.91,
+    "min_price_per_ton": 35.0,
+    "max_price_per_ton": 178.5,
+    "unique_customers": 2,
+    "market_share_pct": 0.77
+  },
+  {
+    "code": "25",
+    "abbreviation": "CLINKER HANACEM",
+    "name": "CLINKER HANACEM",
+    "revenue": 1477288.33,
+    "quantity": 44994.61,
+    "orders": 991,
+    "avg_price_per_ton": 32.83,
+    "min_price_per_ton": 30.0,
+    "max_price_per_ton": 35.5,
+    "unique_customers": 1,
+    "market_share_pct": 0.49
+  },
+  {
+    "code": "4",
+    "abbreviation": "CEM I 42,5N V",
+    "name": "CEM I 42,5N V",
+    "revenue": 1199889.93,
+    "quantity": 10518.11,
+    "orders": 233,
+    "avg_price_per_ton": 114.08,
+    "min_price_per_ton": 34.0,
+    "max_price_per_ton": 250.24,
+    "unique_customers": 7,
+    "market_share_pct": 0.4
+  },
+  {
+    "code": "2",
+    "abbreviation": "CEMII/A-L42,5NV",
+    "name": "CEMII/A-L42,5NV",
+    "revenue": 51028.7,
+    "quantity": 216.46,
+    "orders": 14,
+    "avg_price_per_ton": 235.74,
+    "min_price_per_ton": 235.04,
+    "max_price_per_ton": 236.0,
+    "unique_customers": 1,
+    "market_share_pct": 0.02
+  }
+]

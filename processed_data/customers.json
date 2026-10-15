@@ -1,0 +1,1005 @@
+[
+  {
+    "code": "1296",
+    "name": "Comptoir de  Batiment Du  Kef",
+    "revenue": 29429238.09,
+    "quantity": 109338.0,
+    "orders": 4307,
+    "governorates": [
+      "SILIANA",
+      "LE KEF",
+      "KASSERINE"
+    ],
+    "credit_ratio": 100.0
+  },
+  {
+    "code": "1597",
+    "name": "SOCIETE AMBARA",
+    "revenue": 28542302.27,
+    "quantity": 106077.0,
+    "orders": 4058,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 100.0
+  },
+  {
+    "code": "1603",
+    "name": "SBEI KRIMO BEN OTHMEN",
+    "revenue": 21755628.77,
+    "quantity": 81214.0,
+    "orders": 3994,
+    "governorates": [
+      "LE KEF",
+      "SILIANA",
+      "GAFSA",
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1756",
+    "name": "BARHOUMI JAAFAR",
+    "revenue": 16704283.04,
+    "quantity": 60994.0,
+    "orders": 3514,
+    "governorates": [
+      "JENDOUBA",
+      "SILIANA",
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1762",
+    "name": "SOCIETE SARHAN ABDELLAOUI DE COMMERCE",
+    "revenue": 15468326.67,
+    "quantity": 56331.0,
+    "orders": 2385,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1514",
+    "name": "HIZI BELGACEM B.MUSTPHA",
+    "revenue": 12768884.79,
+    "quantity": 48066.0,
+    "orders": 1878,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1630",
+    "name": "BILEL BEN ABDELKARIM SBII",
+    "revenue": 11650820.75,
+    "quantity": 43434.0,
+    "orders": 2147,
+    "governorates": [
+      "JENDOUBA",
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1525",
+    "name": "NCIB YOUSSEF B BRAHIM",
+    "revenue": 11140390.12,
+    "quantity": 41525.0,
+    "orders": 1504,
+    "governorates": [
+      "LE KEF",
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1338",
+    "name": "S commerciale  ENNAJAH",
+    "revenue": 9812304.86,
+    "quantity": 35838.0,
+    "orders": 1768,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1769",
+    "name": "STE SBIAII DES MATERIAUX DE CONSTRUCTION",
+    "revenue": 8955756.32,
+    "quantity": 32875.0,
+    "orders": 1621,
+    "governorates": [
+      "JENDOUBA",
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1681",
+    "name": "GUESMI DHIEB B AMMAR",
+    "revenue": 7918001.03,
+    "quantity": 29895.0,
+    "orders": 977,
+    "governorates": [
+      "JENDOUBA",
+      "LE KEF",
+      "BEJA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1751",
+    "name": "SOCIETE TSR DE COMMERCE",
+    "revenue": 7846574.66,
+    "quantity": 29055.0,
+    "orders": 981,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1672",
+    "name": "STE COMPTOIR MODERNE DE BATIMENT",
+    "revenue": 7749409.13,
+    "quantity": 29635.0,
+    "orders": 989,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1507",
+    "name": "SOCIETE RABHI FRERES",
+    "revenue": 7587073.78,
+    "quantity": 28210.0,
+    "orders": 1041,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1564",
+    "name": "ABDELLAOUI HABIB BEN NOUREDDINE",
+    "revenue": 6340013.04,
+    "quantity": 25000.0,
+    "orders": 840,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1294",
+    "name": "Societe LAZRAG et  Compagnie",
+    "revenue": 5961035.77,
+    "quantity": 22997.0,
+    "orders": 1243,
+    "governorates": [
+      "JENDOUBA",
+      "SILIANA",
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1752",
+    "name": "ZOGHLAMI NACEUR B AHMED",
+    "revenue": 5303025.77,
+    "quantity": 20030.0,
+    "orders": 1269,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1712",
+    "name": "HASNI MED SGHAIER",
+    "revenue": 5225573.43,
+    "quantity": 19040.0,
+    "orders": 718,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1727",
+    "name": "KHAMMASSI MOHSEN BEN ELKAFI",
+    "revenue": 5017287.32,
+    "quantity": 19260.0,
+    "orders": 745,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1728",
+    "name": "STE BEN ELBAHI",
+    "revenue": 4054182.65,
+    "quantity": 16725.0,
+    "orders": 584,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1768",
+    "name": "SOCIETE ARRAYEN",
+    "revenue": 3917563.35,
+    "quantity": 14825.0,
+    "orders": 522,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1495",
+    "name": "SOCIETE ELHIDRI",
+    "revenue": 3208355.88,
+    "quantity": 12300.0,
+    "orders": 557,
+    "governorates": [
+      "TUNIS",
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1766",
+    "name": "SOCIETE COMPTOIR BEN SALAH DE CIMENT",
+    "revenue": 3183398.63,
+    "quantity": 11526.0,
+    "orders": 815,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 100.0
+  },
+  {
+    "code": "1689",
+    "name": "MOULAHI HEDI B KHDHIRI",
+    "revenue": 3094989.2,
+    "quantity": 11585.0,
+    "orders": 386,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1757",
+    "name": "KADRI JOUBRANE B AB DESSAMAD",
+    "revenue": 3067547.72,
+    "quantity": 10979.0,
+    "orders": 508,
+    "governorates": [
+      "LE KEF",
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1436",
+    "name": "MOUSSAOUI Med Mouldi",
+    "revenue": 2807118.48,
+    "quantity": 10675.0,
+    "orders": 459,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5853",
+    "name": "NASAEM ALJIBAL ELHADHITHA IMPORT MATERIAUX DE CONSTRUCTION",
+    "revenue": 2776282.14,
+    "quantity": 16054.0,
+    "orders": 391,
+    "governorates": [
+      "EXPORT",
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1754",
+    "name": "SOCIETE ROUA CERAMIQUE",
+    "revenue": 2717140.34,
+    "quantity": 10792.0,
+    "orders": 338,
+    "governorates": [
+      "KASSERINE",
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1660",
+    "name": "CHIKHAOUI TAHER B BRAHIM",
+    "revenue": 2379824.51,
+    "quantity": 9135.0,
+    "orders": 376,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1432",
+    "name": "Société Generale  d'Equipemt et Materiaux de Construction",
+    "revenue": 2308780.8,
+    "quantity": 8670.0,
+    "orders": 322,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1361",
+    "name": "STE LES CIMENTS DE BIZERTE  (clinker)",
+    "revenue": 2255979.39,
+    "quantity": 12638.54,
+    "orders": 310,
+    "governorates": [
+      "BIZERTE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1749",
+    "name": "AMRI ZIED BEN ELHOUCINE",
+    "revenue": 2239791.94,
+    "quantity": 8425.0,
+    "orders": 295,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5854",
+    "name": "CISCO TRADING",
+    "revenue": 2096639.85,
+    "quantity": 11485.0,
+    "orders": 263,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1550",
+    "name": "KHAMMASSI KAMEL BEN SALAH",
+    "revenue": 2008222.83,
+    "quantity": 7510.0,
+    "orders": 701,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5851",
+    "name": "RUSPINA IMPORT EXPORT BUILDING MATERIALS TRADING",
+    "revenue": 1945023.88,
+    "quantity": 15430.86,
+    "orders": 308,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1767",
+    "name": "SOCIETE KHIRA DE BATIMENT SARL",
+    "revenue": 1940050.27,
+    "quantity": 6970.0,
+    "orders": 309,
+    "governorates": [
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1233",
+    "name": "STE BELLAAJ MOKHTAR ET FILS",
+    "revenue": 1664638.57,
+    "quantity": 6240.0,
+    "orders": 225,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 100.0
+  },
+  {
+    "code": "1686",
+    "name": "FERHI HOUCINE B YOUNES",
+    "revenue": 1501918.53,
+    "quantity": 6090.0,
+    "orders": 174,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5844",
+    "name": "SOCIETE HANACEM TUNISIA",
+    "revenue": 1477288.33,
+    "quantity": 44994.61,
+    "orders": 991,
+    "governorates": [
+      "GABES",
+      "EXPORT"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5848",
+    "name": "STE DHIFEF KOBRA IMPORT MC",
+    "revenue": 1308144.43,
+    "quantity": 15497.42,
+    "orders": 266,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "2270",
+    "name": "ELOMRI FAYCEL B MOSBAH",
+    "revenue": 1305449.28,
+    "quantity": 5045.0,
+    "orders": 249,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1759",
+    "name": "HAMZA BEN ALI ELBAKKARI",
+    "revenue": 1283807.29,
+    "quantity": 4655.0,
+    "orders": 165,
+    "governorates": [
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1743",
+    "name": "LES FILS BACCAR",
+    "revenue": 1239421.46,
+    "quantity": 4633.0,
+    "orders": 142,
+    "governorates": [
+      "GAFSA",
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1730",
+    "name": "NAJLA ELBELDI BENT SALAH",
+    "revenue": 1115135.37,
+    "quantity": 4050.0,
+    "orders": 140,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1325",
+    "name": "Etablissement NACEUR GHARSALLI ET FILS",
+    "revenue": 1101428.62,
+    "quantity": 4025.0,
+    "orders": 122,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1683",
+    "name": "RAMI HDHILI B AMMAR",
+    "revenue": 1031931.78,
+    "quantity": 3925.0,
+    "orders": 233,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1748",
+    "name": "STE RIM MATERIAUX DE CONSTRUCTION",
+    "revenue": 1003822.69,
+    "quantity": 3985.0,
+    "orders": 145,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1771",
+    "name": "STE AYADI FRERES DEQUIPEMENT",
+    "revenue": 972262.62,
+    "quantity": 3685.0,
+    "orders": 123,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1703",
+    "name": "SAOUDI AMMAR BEN ALI",
+    "revenue": 962465.17,
+    "quantity": 3425.0,
+    "orders": 150,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5839",
+    "name": "STE UNITRADE INTERNATIONAL",
+    "revenue": 950685.44,
+    "quantity": 5222.0,
+    "orders": 141,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1723",
+    "name": "HICHEM B MED ARBI ATIRI",
+    "revenue": 922391.6,
+    "quantity": 3505.0,
+    "orders": 117,
+    "governorates": [
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1750",
+    "name": "STE PRO-G-MAT DISTRIBUTION",
+    "revenue": 848786.81,
+    "quantity": 3375.0,
+    "orders": 159,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1528",
+    "name": "H'SAINIA ADEL BEN ABID",
+    "revenue": 758961.11,
+    "quantity": 3236.0,
+    "orders": 97,
+    "governorates": [
+      "TUNIS",
+      "TOZEUR"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1736",
+    "name": "LOTFI BOUJEZA B ROMDHANE",
+    "revenue": 745597.41,
+    "quantity": 3135.0,
+    "orders": 114,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1510",
+    "name": "STE AMNA DE VENTE DE MAT. DE CONS. EN GROS",
+    "revenue": 720900.24,
+    "quantity": 2645.0,
+    "orders": 102,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5855",
+    "name": "STE ASILA ALFIDHIYA IMP MAT DE CONSTRUCTION",
+    "revenue": 682410.35,
+    "quantity": 3885.0,
+    "orders": 81,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1755",
+    "name": "STE JOUD VMC",
+    "revenue": 654481.23,
+    "quantity": 2990.0,
+    "orders": 89,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1737",
+    "name": "STE MAAROUFI DE MATERIAUX DE CONSTRUCTION",
+    "revenue": 596370.0,
+    "quantity": 2535.0,
+    "orders": 92,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1734",
+    "name": "SOCIETE DES PRODUITS DE CONSTRUCTION AKOURI",
+    "revenue": 594398.72,
+    "quantity": 2415.0,
+    "orders": 70,
+    "governorates": [
+      "GAFSA",
+      "TOZEUR"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1675",
+    "name": "RGAYAA HANI B ABDELHAKIM",
+    "revenue": 518755.35,
+    "quantity": 2100.0,
+    "orders": 70,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1761",
+    "name": "HIZI RIADH BEN BELGACEM",
+    "revenue": 514251.85,
+    "quantity": 1860.0,
+    "orders": 69,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1753",
+    "name": "BILEL BEN LAZHER CHRAITI",
+    "revenue": 506444.62,
+    "quantity": 1990.0,
+    "orders": 63,
+    "governorates": [
+      "GAFSA",
+      "TOZEUR"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1764",
+    "name": "DORSAF BENT FADHEL EL BORNI",
+    "revenue": 499400.0,
+    "quantity": 1760.0,
+    "orders": 69,
+    "governorates": [
+      "SILIANA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1613",
+    "name": "AYMEN BEN LAZHAR SBEI",
+    "revenue": 432637.39,
+    "quantity": 1883.0,
+    "orders": 61,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1666",
+    "name": "SOCIETE SEGHAIRI",
+    "revenue": 422184.15,
+    "quantity": 1645.0,
+    "orders": 329,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "2249",
+    "name": "SOCIETE CHAABANE FRERES",
+    "revenue": 323075.16,
+    "quantity": 1315.6,
+    "orders": 54,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5852",
+    "name": "LEAERSHIP TRADING",
+    "revenue": 308997.4,
+    "quantity": 3515.0,
+    "orders": 57,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5849",
+    "name": "STE KHARROUBA P° MC CIMENT ET GYPSE",
+    "revenue": 225365.6,
+    "quantity": 2000.0,
+    "orders": 28,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1773",
+    "name": "UNI-TRANS",
+    "revenue": 219735.53,
+    "quantity": 795.0,
+    "orders": 34,
+    "governorates": [
+      "TUNIS"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1664",
+    "name": "GUERMIT NACEUR",
+    "revenue": 186389.01,
+    "quantity": 750.0,
+    "orders": 29,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1760",
+    "name": "SOCIETE EL AMAL PLUS",
+    "revenue": 185885.0,
+    "quantity": 665.0,
+    "orders": 19,
+    "governorates": [
+      "GAFSA",
+      "TOZEUR"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1668",
+    "name": "ZIDI Jamel",
+    "revenue": 177031.0,
+    "quantity": 626.0,
+    "orders": 40,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "2269",
+    "name": "STE BETON CENTRE",
+    "revenue": 158203.67,
+    "quantity": 637.28,
+    "orders": 27,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1406",
+    "name": "Medsia Issam",
+    "revenue": 148629.72,
+    "quantity": 595.0,
+    "orders": 22,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1758",
+    "name": "RINOUBEL",
+    "revenue": 142862.82,
+    "quantity": 592.0,
+    "orders": 34,
+    "governorates": [
+      "JENDOUBA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5850",
+    "name": "STE SOMOUD ABRAJ IMPORT MC MS",
+    "revenue": 119311.2,
+    "quantity": 1000.0,
+    "orders": 17,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5846",
+    "name": "STE ABRAJ ATLAS IMPORT MATERIAUX DE CONSTRUCTION",
+    "revenue": 95000.0,
+    "quantity": 2500.0,
+    "orders": 36,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1765",
+    "name": "COMPTOIR GENERAL DE COMMERCE",
+    "revenue": 85298.0,
+    "quantity": 302.0,
+    "orders": 16,
+    "governorates": [
+      "SOUSSE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1716",
+    "name": "JEBARI NOUREDDINE BEN ALLALA",
+    "revenue": 81868.89,
+    "quantity": 315.0,
+    "orders": 63,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1744",
+    "name": "COMPTOIR TUNISIEN DE MATERIAUX DE CONSTRUCTION",
+    "revenue": 75000.8,
+    "quantity": 280.0,
+    "orders": 2,
+    "governorates": [
+      "SFAX"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "3278",
+    "name": "SOCIETE TOUHAMI DE CARRELAGE",
+    "revenue": 74275.69,
+    "quantity": 310.96,
+    "orders": 17,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1569",
+    "name": "KHMILI JILANI BEN LEKHDHIRI",
+    "revenue": 59615.03,
+    "quantity": 253.0,
+    "orders": 8,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "2268",
+    "name": "ETABLISSEMENT NAILI HOUCINE FAB BETON",
+    "revenue": 51792.67,
+    "quantity": 263.32,
+    "orders": 8,
+    "governorates": [
+      "SIDI BOUZID"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "3277",
+    "name": "SNCFT. UFTB",
+    "revenue": 47212.48,
+    "quantity": 200.0,
+    "orders": 6,
+    "governorates": [
+      "GAFSA"
+    ],
+    "credit_ratio": 100.0
+  },
+  {
+    "code": "1575",
+    "name": "GHARSALLI FAOUZI BEN AMOR",
+    "revenue": 44353.71,
+    "quantity": 210.0,
+    "orders": 7,
+    "governorates": [
+      "KASSERINE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1530",
+    "name": "SOCIETE BATIMENT FOUCHANA",
+    "revenue": 22594.23,
+    "quantity": 90.0,
+    "orders": 3,
+    "governorates": [
+      "TUNIS"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "1519",
+    "name": "SOCIETE EL AMEL",
+    "revenue": 10115.0,
+    "quantity": 35.0,
+    "orders": 1,
+    "governorates": [
+      "TOZEUR"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "5847",
+    "name": "STE LA GAZELLE EXCELLENTE IMPORT MC",
+    "revenue": 7480.0,
+    "quantity": 220.0,
+    "orders": 4,
+    "governorates": [
+      "LIBYE"
+    ],
+    "credit_ratio": 0.0
+  },
+  {
+    "code": "3286",
+    "name": "PASCHINSKY ENTREPRISE",
+    "revenue": 5975.0,
+    "quantity": 25.0,
+    "orders": 1,
+    "governorates": [
+      "LE KEF"
+    ],
+    "credit_ratio": 0.0
+  }
+]

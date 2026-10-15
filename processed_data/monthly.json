@@ -1,0 +1,442 @@
+[
+  {
+    "month": "2022-01",
+    "revenue": 4998088.6,
+    "quantity": 23641.43,
+    "orders": 916,
+    "credit_revenue": 846023.42,
+    "comptant_revenue": 4152065.18
+  },
+  {
+    "month": "2022-02",
+    "revenue": 5498725.13,
+    "quantity": 28404.09,
+    "orders": 1041,
+    "credit_revenue": 897816.13,
+    "comptant_revenue": 4600909.0
+  },
+  {
+    "month": "2022-03",
+    "revenue": 7571980.12,
+    "quantity": 56613.71,
+    "orders": 1561,
+    "credit_revenue": 941600.79,
+    "comptant_revenue": 6630379.34
+  },
+  {
+    "month": "2022-04",
+    "revenue": 5145274.77,
+    "quantity": 35521.42,
+    "orders": 1049,
+    "credit_revenue": 717496.66,
+    "comptant_revenue": 4427778.12
+  },
+  {
+    "month": "2022-05",
+    "revenue": 8061967.49,
+    "quantity": 57703.74,
+    "orders": 1618,
+    "credit_revenue": 1039485.19,
+    "comptant_revenue": 7022482.3
+  },
+  {
+    "month": "2022-06",
+    "revenue": 8264347.84,
+    "quantity": 33118.03,
+    "orders": 1076,
+    "credit_revenue": 1413745.78,
+    "comptant_revenue": 6850602.06
+  },
+  {
+    "month": "2022-07",
+    "revenue": 6827635.58,
+    "quantity": 26649.31,
+    "orders": 911,
+    "credit_revenue": 1140462.93,
+    "comptant_revenue": 5687172.65
+  },
+  {
+    "month": "2022-08",
+    "revenue": 9032639.37,
+    "quantity": 35553.84,
+    "orders": 1199,
+    "credit_revenue": 1722040.56,
+    "comptant_revenue": 7310598.82
+  },
+  {
+    "month": "2022-09",
+    "revenue": 4923607.29,
+    "quantity": 18077.83,
+    "orders": 691,
+    "credit_revenue": 814235.42,
+    "comptant_revenue": 4109371.88
+  },
+  {
+    "month": "2022-10",
+    "revenue": 5195135.0,
+    "quantity": 18710.0,
+    "orders": 687,
+    "credit_revenue": 570710.0,
+    "comptant_revenue": 4624425.0
+  },
+  {
+    "month": "2022-11",
+    "revenue": 5710254.0,
+    "quantity": 20511.0,
+    "orders": 786,
+    "credit_revenue": 829675.0,
+    "comptant_revenue": 4880579.0
+  },
+  {
+    "month": "2022-12",
+    "revenue": 6197645.56,
+    "quantity": 22318.45,
+    "orders": 897,
+    "credit_revenue": 1030860.0,
+    "comptant_revenue": 5166785.56
+  },
+  {
+    "month": "2023-01",
+    "revenue": 5902627.27,
+    "quantity": 21299.61,
+    "orders": 862,
+    "credit_revenue": 1030041.0,
+    "comptant_revenue": 4872586.27
+  },
+  {
+    "month": "2023-02",
+    "revenue": 5773908.4,
+    "quantity": 20697.4,
+    "orders": 845,
+    "credit_revenue": 1238083.0,
+    "comptant_revenue": 4535825.4
+  },
+  {
+    "month": "2023-03",
+    "revenue": 6516761.27,
+    "quantity": 23337.49,
+    "orders": 967,
+    "credit_revenue": 1395807.0,
+    "comptant_revenue": 5120954.27
+  },
+  {
+    "month": "2023-04",
+    "revenue": 3971304.0,
+    "quantity": 14224.0,
+    "orders": 607,
+    "credit_revenue": 894201.0,
+    "comptant_revenue": 3077103.0
+  },
+  {
+    "month": "2023-05",
+    "revenue": 5770774.42,
+    "quantity": 20689.72,
+    "orders": 841,
+    "credit_revenue": 1107605.0,
+    "comptant_revenue": 4663169.42
+  },
+  {
+    "month": "2023-06",
+    "revenue": 5179032.0,
+    "quantity": 18571.0,
+    "orders": 805,
+    "credit_revenue": 1020768.0,
+    "comptant_revenue": 4158264.0
+  },
+  {
+    "month": "2023-07",
+    "revenue": 5513377.48,
+    "quantity": 19753.88,
+    "orders": 817,
+    "credit_revenue": 1404211.0,
+    "comptant_revenue": 4109166.48
+  },
+  {
+    "month": "2023-08",
+    "revenue": 5447792.0,
+    "quantity": 19504.0,
+    "orders": 839,
+    "credit_revenue": 1291282.0,
+    "comptant_revenue": 4156510.0
+  },
+  {
+    "month": "2023-09",
+    "revenue": 5512525.91,
+    "quantity": 19730.52,
+    "orders": 876,
+    "credit_revenue": 1379942.0,
+    "comptant_revenue": 4132583.91
+  },
+  {
+    "month": "2023-10",
+    "revenue": 6090724.49,
+    "quantity": 21804.25,
+    "orders": 988,
+    "credit_revenue": 1634496.0,
+    "comptant_revenue": 4456228.49
+  },
+  {
+    "month": "2023-11",
+    "revenue": 5210414.0,
+    "quantity": 18640.0,
+    "orders": 872,
+    "credit_revenue": 1331020.0,
+    "comptant_revenue": 3879394.0
+  },
+  {
+    "month": "2023-12",
+    "revenue": 4128370.64,
+    "quantity": 14746.99,
+    "orders": 711,
+    "credit_revenue": 1043852.0,
+    "comptant_revenue": 3084518.64
+  },
+  {
+    "month": "2024-01",
+    "revenue": 4751969.0,
+    "quantity": 16946.0,
+    "orders": 781,
+    "credit_revenue": 955199.0,
+    "comptant_revenue": 3796770.0
+  },
+  {
+    "month": "2024-02",
+    "revenue": 4166200.48,
+    "quantity": 14881.88,
+    "orders": 712,
+    "credit_revenue": 622090.0,
+    "comptant_revenue": 3544110.48
+  },
+  {
+    "month": "2024-03",
+    "revenue": 4170873.64,
+    "quantity": 14888.84,
+    "orders": 741,
+    "credit_revenue": 940110.0,
+    "comptant_revenue": 3230763.64
+  },
+  {
+    "month": "2024-04",
+    "revenue": 3837630.0,
+    "quantity": 13689.0,
+    "orders": 665,
+    "credit_revenue": 863928.0,
+    "comptant_revenue": 2973702.0
+  },
+  {
+    "month": "2024-05",
+    "revenue": 5765592.62,
+    "quantity": 20572.47,
+    "orders": 952,
+    "credit_revenue": 1214960.0,
+    "comptant_revenue": 4550632.62
+  },
+  {
+    "month": "2024-06",
+    "revenue": 4390040.36,
+    "quantity": 15671.16,
+    "orders": 737,
+    "credit_revenue": 1100355.0,
+    "comptant_revenue": 3289685.36
+  },
+  {
+    "month": "2024-07",
+    "revenue": 4811299.0,
+    "quantity": 17160.0,
+    "orders": 842,
+    "credit_revenue": 1245970.0,
+    "comptant_revenue": 3565329.0
+  },
+  {
+    "month": "2024-08",
+    "revenue": 4378087.35,
+    "quantity": 15629.16,
+    "orders": 781,
+    "credit_revenue": 1192425.0,
+    "comptant_revenue": 3185662.35
+  },
+  {
+    "month": "2024-09",
+    "revenue": 4390156.0,
+    "quantity": 15641.0,
+    "orders": 751,
+    "credit_revenue": 1261500.0,
+    "comptant_revenue": 3128656.0
+  },
+  {
+    "month": "2024-10",
+    "revenue": 4626349.94,
+    "quantity": 16501.39,
+    "orders": 841,
+    "credit_revenue": 1229790.0,
+    "comptant_revenue": 3396559.94
+  },
+  {
+    "month": "2024-11",
+    "revenue": 4075737.89,
+    "quantity": 14544.15,
+    "orders": 767,
+    "credit_revenue": 1023285.0,
+    "comptant_revenue": 3052452.89
+  },
+  {
+    "month": "2024-12",
+    "revenue": 2897193.0,
+    "quantity": 10306.0,
+    "orders": 553,
+    "credit_revenue": 675431.0,
+    "comptant_revenue": 2221762.0
+  },
+  {
+    "month": "2025-01",
+    "revenue": 3755625.22,
+    "quantity": 13651.0,
+    "orders": 679,
+    "credit_revenue": 1294852.47,
+    "comptant_revenue": 2460772.75
+  },
+  {
+    "month": "2025-02",
+    "revenue": 7320220.03,
+    "quantity": 31546.0,
+    "orders": 1096,
+    "credit_revenue": 1570168.02,
+    "comptant_revenue": 5750052.0
+  },
+  {
+    "month": "2025-03",
+    "revenue": 3314895.25,
+    "quantity": 12630.0,
+    "orders": 549,
+    "credit_revenue": 928003.0,
+    "comptant_revenue": 2386892.25
+  },
+  {
+    "month": "2025-04",
+    "revenue": 4771271.39,
+    "quantity": 18168.24,
+    "orders": 811,
+    "credit_revenue": 1140676.37,
+    "comptant_revenue": 3630595.02
+  },
+  {
+    "month": "2025-05",
+    "revenue": 5682426.77,
+    "quantity": 23159.0,
+    "orders": 950,
+    "credit_revenue": 975051.18,
+    "comptant_revenue": 4707375.59
+  },
+  {
+    "month": "2025-06",
+    "revenue": 4347187.88,
+    "quantity": 16119.04,
+    "orders": 775,
+    "credit_revenue": 954618.0,
+    "comptant_revenue": 3392569.88
+  },
+  {
+    "month": "2025-07",
+    "revenue": 5352596.42,
+    "quantity": 20117.0,
+    "orders": 943,
+    "credit_revenue": 1235935.2,
+    "comptant_revenue": 4116661.22
+  },
+  {
+    "month": "2025-08",
+    "revenue": 7226282.89,
+    "quantity": 30787.0,
+    "orders": 1165,
+    "credit_revenue": 1207131.98,
+    "comptant_revenue": 6019150.92
+  },
+  {
+    "month": "2025-09",
+    "revenue": 8642212.59,
+    "quantity": 37749.14,
+    "orders": 1307,
+    "credit_revenue": 1334634.25,
+    "comptant_revenue": 7307578.34
+  },
+  {
+    "month": "2025-10",
+    "revenue": 7752360.92,
+    "quantity": 30513.4,
+    "orders": 1263,
+    "credit_revenue": 1667663.76,
+    "comptant_revenue": 6084697.16
+  },
+  {
+    "month": "2025-11",
+    "revenue": 5578452.95,
+    "quantity": 20607.0,
+    "orders": 910,
+    "credit_revenue": 1409768.8,
+    "comptant_revenue": 4168684.15
+  },
+  {
+    "month": "2025-12",
+    "revenue": 4650423.9,
+    "quantity": 17076.0,
+    "orders": 783,
+    "credit_revenue": 1231111.6,
+    "comptant_revenue": 3419312.3
+  },
+  {
+    "month": "2026-01",
+    "revenue": 4118558.82,
+    "quantity": 15214.0,
+    "orders": 692,
+    "credit_revenue": 1088445.0,
+    "comptant_revenue": 3030113.82
+  },
+  {
+    "month": "2026-02",
+    "revenue": 4395890.55,
+    "quantity": 16203.0,
+    "orders": 769,
+    "credit_revenue": 1079001.8,
+    "comptant_revenue": 3316888.75
+  },
+  {
+    "month": "2026-03",
+    "revenue": 3878725.65,
+    "quantity": 14319.0,
+    "orders": 656,
+    "credit_revenue": 1005273.85,
+    "comptant_revenue": 2873451.8
+  },
+  {
+    "month": "2026-04",
+    "revenue": 6167530.91,
+    "quantity": 22852.0,
+    "orders": 992,
+    "credit_revenue": 1435514.47,
+    "comptant_revenue": 4732016.44
+  },
+  {
+    "month": "2026-05",
+    "revenue": 6245700.73,
+    "quantity": 23134.0,
+    "orders": 987,
+    "credit_revenue": 1656597.68,
+    "comptant_revenue": 4589103.06
+  },
+  {
+    "month": "2026-06",
+    "revenue": 7320344.13,
+    "quantity": 27260.0,
+    "orders": 1124,
+    "credit_revenue": 1617489.67,
+    "comptant_revenue": 5702854.46
+  },
+  {
+    "month": "2026-07",
+    "revenue": 5142510.54,
+    "quantity": 19108.0,
+    "orders": 768,
+    "credit_revenue": 974350.07,
+    "comptant_revenue": 4168160.47
+  }
+]

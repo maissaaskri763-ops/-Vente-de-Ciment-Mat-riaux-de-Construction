@@ -1,0 +1,552 @@
+[
+  {
+    "month": "2022-01",
+    "revenue": 4998088.6,
+    "quantity": 23641.43,
+    "orders": 916,
+    "unique_customers": 53,
+    "avg_order_value": 5456.43,
+    "cash_orders": 780,
+    "credit_orders": 136
+  },
+  {
+    "month": "2022-02",
+    "revenue": 5498725.13,
+    "quantity": 28404.09,
+    "orders": 1041,
+    "unique_customers": 54,
+    "avg_order_value": 5282.16,
+    "cash_orders": 892,
+    "credit_orders": 149
+  },
+  {
+    "month": "2022-03",
+    "revenue": 7571980.12,
+    "quantity": 56613.71,
+    "orders": 1561,
+    "unique_customers": 57,
+    "avg_order_value": 4850.72,
+    "cash_orders": 1421,
+    "credit_orders": 140
+  },
+  {
+    "month": "2022-04",
+    "revenue": 5145274.78,
+    "quantity": 35521.42,
+    "orders": 1049,
+    "unique_customers": 51,
+    "avg_order_value": 4904.93,
+    "cash_orders": 932,
+    "credit_orders": 117
+  },
+  {
+    "month": "2022-05",
+    "revenue": 8061967.49,
+    "quantity": 57703.74,
+    "orders": 1618,
+    "unique_customers": 54,
+    "avg_order_value": 4982.67,
+    "cash_orders": 1464,
+    "credit_orders": 154
+  },
+  {
+    "month": "2022-06",
+    "revenue": 8264347.84,
+    "quantity": 33118.03,
+    "orders": 1076,
+    "unique_customers": 58,
+    "avg_order_value": 7680.62,
+    "cash_orders": 907,
+    "credit_orders": 169
+  },
+  {
+    "month": "2022-07",
+    "revenue": 6827635.58,
+    "quantity": 26649.31,
+    "orders": 911,
+    "unique_customers": 55,
+    "avg_order_value": 7494.66,
+    "cash_orders": 778,
+    "credit_orders": 133
+  },
+  {
+    "month": "2022-08",
+    "revenue": 9032639.37,
+    "quantity": 35553.84,
+    "orders": 1199,
+    "unique_customers": 55,
+    "avg_order_value": 7533.48,
+    "cash_orders": 1003,
+    "credit_orders": 196
+  },
+  {
+    "month": "2022-09",
+    "revenue": 4923607.29,
+    "quantity": 18077.83,
+    "orders": 691,
+    "unique_customers": 48,
+    "avg_order_value": 7125.34,
+    "cash_orders": 589,
+    "credit_orders": 102
+  },
+  {
+    "month": "2022-10",
+    "revenue": 5195135.0,
+    "quantity": 18710.0,
+    "orders": 687,
+    "unique_customers": 46,
+    "avg_order_value": 7562.06,
+    "cash_orders": 616,
+    "credit_orders": 71
+  },
+  {
+    "month": "2022-11",
+    "revenue": 5710254.0,
+    "quantity": 20511.0,
+    "orders": 786,
+    "unique_customers": 49,
+    "avg_order_value": 7264.95,
+    "cash_orders": 679,
+    "credit_orders": 107
+  },
+  {
+    "month": "2022-12",
+    "revenue": 6197645.56,
+    "quantity": 22318.45,
+    "orders": 897,
+    "unique_customers": 52,
+    "avg_order_value": 6909.3,
+    "cash_orders": 764,
+    "credit_orders": 133
+  },
+  {
+    "month": "2023-01",
+    "revenue": 5902627.27,
+    "quantity": 21299.61,
+    "orders": 862,
+    "unique_customers": 52,
+    "avg_order_value": 6847.6,
+    "cash_orders": 722,
+    "credit_orders": 140
+  },
+  {
+    "month": "2023-02",
+    "revenue": 5773908.4,
+    "quantity": 20697.4,
+    "orders": 845,
+    "unique_customers": 47,
+    "avg_order_value": 6833.03,
+    "cash_orders": 682,
+    "credit_orders": 163
+  },
+  {
+    "month": "2023-03",
+    "revenue": 6516761.27,
+    "quantity": 23337.49,
+    "orders": 967,
+    "unique_customers": 47,
+    "avg_order_value": 6739.15,
+    "cash_orders": 782,
+    "credit_orders": 185
+  },
+  {
+    "month": "2023-04",
+    "revenue": 3971304.0,
+    "quantity": 14224.0,
+    "orders": 607,
+    "unique_customers": 42,
+    "avg_order_value": 6542.51,
+    "cash_orders": 478,
+    "credit_orders": 129
+  },
+  {
+    "month": "2023-05",
+    "revenue": 5770774.42,
+    "quantity": 20689.72,
+    "orders": 841,
+    "unique_customers": 45,
+    "avg_order_value": 6861.8,
+    "cash_orders": 694,
+    "credit_orders": 147
+  },
+  {
+    "month": "2023-06",
+    "revenue": 5179032.0,
+    "quantity": 18571.0,
+    "orders": 805,
+    "unique_customers": 44,
+    "avg_order_value": 6433.58,
+    "cash_orders": 647,
+    "credit_orders": 158
+  },
+  {
+    "month": "2023-07",
+    "revenue": 5513377.48,
+    "quantity": 19753.88,
+    "orders": 817,
+    "unique_customers": 39,
+    "avg_order_value": 6748.32,
+    "cash_orders": 631,
+    "credit_orders": 186
+  },
+  {
+    "month": "2023-08",
+    "revenue": 5447792.0,
+    "quantity": 19504.0,
+    "orders": 839,
+    "unique_customers": 38,
+    "avg_order_value": 6493.2,
+    "cash_orders": 671,
+    "credit_orders": 168
+  },
+  {
+    "month": "2023-09",
+    "revenue": 5512525.91,
+    "quantity": 19730.52,
+    "orders": 876,
+    "unique_customers": 36,
+    "avg_order_value": 6292.84,
+    "cash_orders": 691,
+    "credit_orders": 185
+  },
+  {
+    "month": "2023-10",
+    "revenue": 6090724.49,
+    "quantity": 21804.25,
+    "orders": 988,
+    "unique_customers": 38,
+    "avg_order_value": 6164.7,
+    "cash_orders": 768,
+    "credit_orders": 220
+  },
+  {
+    "month": "2023-11",
+    "revenue": 5210414.0,
+    "quantity": 18640.0,
+    "orders": 872,
+    "unique_customers": 36,
+    "avg_order_value": 5975.25,
+    "cash_orders": 668,
+    "credit_orders": 204
+  },
+  {
+    "month": "2023-12",
+    "revenue": 4128370.64,
+    "quantity": 14746.99,
+    "orders": 711,
+    "unique_customers": 35,
+    "avg_order_value": 5806.43,
+    "cash_orders": 549,
+    "credit_orders": 162
+  },
+  {
+    "month": "2024-01",
+    "revenue": 4751969.0,
+    "quantity": 16946.0,
+    "orders": 781,
+    "unique_customers": 34,
+    "avg_order_value": 6084.47,
+    "cash_orders": 643,
+    "credit_orders": 138
+  },
+  {
+    "month": "2024-02",
+    "revenue": 4166200.48,
+    "quantity": 14881.88,
+    "orders": 712,
+    "unique_customers": 33,
+    "avg_order_value": 5851.41,
+    "cash_orders": 616,
+    "credit_orders": 96
+  },
+  {
+    "month": "2024-03",
+    "revenue": 4170873.64,
+    "quantity": 14888.84,
+    "orders": 741,
+    "unique_customers": 32,
+    "avg_order_value": 5628.71,
+    "cash_orders": 592,
+    "credit_orders": 149
+  },
+  {
+    "month": "2024-04",
+    "revenue": 3837630.0,
+    "quantity": 13689.0,
+    "orders": 665,
+    "unique_customers": 31,
+    "avg_order_value": 5770.87,
+    "cash_orders": 529,
+    "credit_orders": 136
+  },
+  {
+    "month": "2024-05",
+    "revenue": 5765592.62,
+    "quantity": 20572.47,
+    "orders": 952,
+    "unique_customers": 39,
+    "avg_order_value": 6056.29,
+    "cash_orders": 777,
+    "credit_orders": 175
+  },
+  {
+    "month": "2024-06",
+    "revenue": 4390040.36,
+    "quantity": 15671.16,
+    "orders": 737,
+    "unique_customers": 32,
+    "avg_order_value": 5956.64,
+    "cash_orders": 555,
+    "credit_orders": 182
+  },
+  {
+    "month": "2024-07",
+    "revenue": 4811299.0,
+    "quantity": 17160.0,
+    "orders": 842,
+    "unique_customers": 31,
+    "avg_order_value": 5714.13,
+    "cash_orders": 604,
+    "credit_orders": 238
+  },
+  {
+    "month": "2024-08",
+    "revenue": 4378087.35,
+    "quantity": 15629.16,
+    "orders": 781,
+    "unique_customers": 27,
+    "avg_order_value": 5605.75,
+    "cash_orders": 567,
+    "credit_orders": 214
+  },
+  {
+    "month": "2024-09",
+    "revenue": 4390156.0,
+    "quantity": 15641.0,
+    "orders": 751,
+    "unique_customers": 26,
+    "avg_order_value": 5845.75,
+    "cash_orders": 545,
+    "credit_orders": 206
+  },
+  {
+    "month": "2024-10",
+    "revenue": 4626349.94,
+    "quantity": 16501.39,
+    "orders": 841,
+    "unique_customers": 24,
+    "avg_order_value": 5501.01,
+    "cash_orders": 640,
+    "credit_orders": 201
+  },
+  {
+    "month": "2024-11",
+    "revenue": 4075737.89,
+    "quantity": 14544.15,
+    "orders": 767,
+    "unique_customers": 28,
+    "avg_order_value": 5313.87,
+    "cash_orders": 587,
+    "credit_orders": 180
+  },
+  {
+    "month": "2024-12",
+    "revenue": 2897193.0,
+    "quantity": 10306.0,
+    "orders": 553,
+    "unique_customers": 24,
+    "avg_order_value": 5239.05,
+    "cash_orders": 435,
+    "credit_orders": 118
+  },
+  {
+    "month": "2025-01",
+    "revenue": 3755625.23,
+    "quantity": 13651.0,
+    "orders": 679,
+    "unique_customers": 24,
+    "avg_order_value": 5531.11,
+    "cash_orders": 454,
+    "credit_orders": 225
+  },
+  {
+    "month": "2025-02",
+    "revenue": 7320220.03,
+    "quantity": 31546.0,
+    "orders": 1096,
+    "unique_customers": 31,
+    "avg_order_value": 6679.03,
+    "cash_orders": 868,
+    "credit_orders": 228
+  },
+  {
+    "month": "2025-03",
+    "revenue": 3314895.25,
+    "quantity": 12630.0,
+    "orders": 549,
+    "unique_customers": 28,
+    "avg_order_value": 6038.06,
+    "cash_orders": 399,
+    "credit_orders": 150
+  },
+  {
+    "month": "2025-04",
+    "revenue": 4771271.39,
+    "quantity": 18168.24,
+    "orders": 811,
+    "unique_customers": 29,
+    "avg_order_value": 5883.2,
+    "cash_orders": 643,
+    "credit_orders": 168
+  },
+  {
+    "month": "2025-05",
+    "revenue": 5682426.77,
+    "quantity": 23159.0,
+    "orders": 950,
+    "unique_customers": 30,
+    "avg_order_value": 5981.5,
+    "cash_orders": 788,
+    "credit_orders": 162
+  },
+  {
+    "month": "2025-06",
+    "revenue": 4347187.88,
+    "quantity": 16119.04,
+    "orders": 775,
+    "unique_customers": 30,
+    "avg_order_value": 5609.27,
+    "cash_orders": 625,
+    "credit_orders": 150
+  },
+  {
+    "month": "2025-07",
+    "revenue": 5352596.42,
+    "quantity": 20117.0,
+    "orders": 943,
+    "unique_customers": 29,
+    "avg_order_value": 5676.14,
+    "cash_orders": 744,
+    "credit_orders": 199
+  },
+  {
+    "month": "2025-08",
+    "revenue": 7226282.89,
+    "quantity": 30787.0,
+    "orders": 1165,
+    "unique_customers": 36,
+    "avg_order_value": 6202.82,
+    "cash_orders": 988,
+    "credit_orders": 177
+  },
+  {
+    "month": "2025-09",
+    "revenue": 8642212.59,
+    "quantity": 37749.14,
+    "orders": 1307,
+    "unique_customers": 35,
+    "avg_order_value": 6612.25,
+    "cash_orders": 1106,
+    "credit_orders": 201
+  },
+  {
+    "month": "2025-10",
+    "revenue": 7752360.92,
+    "quantity": 30513.4,
+    "orders": 1263,
+    "unique_customers": 33,
+    "avg_order_value": 6138.05,
+    "cash_orders": 988,
+    "credit_orders": 275
+  },
+  {
+    "month": "2025-11",
+    "revenue": 5578452.95,
+    "quantity": 20607.0,
+    "orders": 910,
+    "unique_customers": 29,
+    "avg_order_value": 6130.17,
+    "cash_orders": 687,
+    "credit_orders": 223
+  },
+  {
+    "month": "2025-12",
+    "revenue": 4650423.9,
+    "quantity": 17076.0,
+    "orders": 783,
+    "unique_customers": 30,
+    "avg_order_value": 5939.24,
+    "cash_orders": 587,
+    "credit_orders": 196
+  },
+  {
+    "month": "2026-01",
+    "revenue": 4118558.82,
+    "quantity": 15214.0,
+    "orders": 692,
+    "unique_customers": 32,
+    "avg_order_value": 5951.67,
+    "cash_orders": 518,
+    "credit_orders": 174
+  },
+  {
+    "month": "2026-02",
+    "revenue": 4395890.55,
+    "quantity": 16203.0,
+    "orders": 769,
+    "unique_customers": 29,
+    "avg_order_value": 5716.37,
+    "cash_orders": 589,
+    "credit_orders": 180
+  },
+  {
+    "month": "2026-03",
+    "revenue": 3878725.65,
+    "quantity": 14319.0,
+    "orders": 656,
+    "unique_customers": 24,
+    "avg_order_value": 5912.69,
+    "cash_orders": 496,
+    "credit_orders": 160
+  },
+  {
+    "month": "2026-04",
+    "revenue": 6167530.91,
+    "quantity": 22852.0,
+    "orders": 992,
+    "unique_customers": 29,
+    "avg_order_value": 6217.27,
+    "cash_orders": 775,
+    "credit_orders": 217
+  },
+  {
+    "month": "2026-05",
+    "revenue": 6245700.73,
+    "quantity": 23134.0,
+    "orders": 987,
+    "unique_customers": 27,
+    "avg_order_value": 6327.96,
+    "cash_orders": 735,
+    "credit_orders": 252
+  },
+  {
+    "month": "2026-06",
+    "revenue": 7320344.13,
+    "quantity": 27260.0,
+    "orders": 1124,
+    "unique_customers": 29,
+    "avg_order_value": 6512.76,
+    "cash_orders": 890,
+    "credit_orders": 234
+  },
+  {
+    "month": "2026-07",
+    "revenue": 5142510.54,
+    "quantity": 19108.0,
+    "orders": 768,
+    "unique_customers": 30,
+    "avg_order_value": 6695.98,
+    "cash_orders": 615,
+    "credit_orders": 153
+  }
+]

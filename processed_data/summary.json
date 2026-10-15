@@ -1,0 +1,12 @@
+{
+  "total_records": 48804,
+  "total_revenue": 300369259.46,
+  "total_qty": 1206465.58,
+  "unique_customers": 89,
+  "unique_products": 7,
+  "unique_governorates": 15,
+  "min_date": "2022-01-02",
+  "max_date": "2026-07-24",
+  "average_order_value": 6154.6,
+  "average_price_per_ton": 248.97
+}

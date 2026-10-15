@@ -1,0 +1,122 @@
+[
+  {
+    "code": "04",
+    "name": "SIDI BOUZID",
+    "revenue": 74557066.58,
+    "quantity": 278091.32,
+    "orders": 10449,
+    "customer_count": 11
+  },
+  {
+    "code": "02",
+    "name": "LE KEF",
+    "revenue": 70450244.37,
+    "quantity": 263345.0,
+    "orders": 12002,
+    "customer_count": 17
+  },
+  {
+    "code": "09",
+    "name": "KASSERINE",
+    "revenue": 59718494.87,
+    "quantity": 223929.88,
+    "orders": 9531,
+    "customer_count": 18
+  },
+  {
+    "code": "05",
+    "name": "JENDOUBA",
+    "revenue": 32693832.69,
+    "quantity": 123905.0,
+    "orders": 6156,
+    "customer_count": 11
+  },
+  {
+    "code": "03",
+    "name": "SILIANA",
+    "revenue": 25271983.83,
+    "quantity": 93269.0,
+    "orders": 4433,
+    "customer_count": 10
+  },
+  {
+    "code": "07",
+    "name": "GAFSA",
+    "revenue": 21496697.16,
+    "quantity": 81724.96,
+    "orders": 3099,
+    "customer_count": 19
+  },
+  {
+    "code": "50",
+    "name": "LIBYE",
+    "revenue": 10494261.98,
+    "quantity": 76689.28,
+    "orders": 1589,
+    "customer_count": 11
+  },
+  {
+    "code": "15",
+    "name": "BIZERTE",
+    "revenue": 2255979.39,
+    "quantity": 12638.54,
+    "orders": 310,
+    "customer_count": 1
+  },
+  {
+    "code": "01",
+    "name": "EXPORT",
+    "revenue": 1497066.15,
+    "quantity": 45071.26,
+    "orders": 993,
+    "customer_count": 2
+  },
+  {
+    "code": "22",
+    "name": "TOZEUR",
+    "revenue": 1474309.81,
+    "quantity": 6071.0,
+    "orders": 179,
+    "customer_count": 5
+  },
+  {
+    "code": "11",
+    "name": "TUNIS",
+    "revenue": 273855.62,
+    "quantity": 1015.0,
+    "orders": 41,
+    "customer_count": 4
+  },
+  {
+    "code": "19",
+    "name": "SOUSSE",
+    "revenue": 85298.0,
+    "quantity": 302.0,
+    "orders": 16,
+    "customer_count": 1
+  },
+  {
+    "code": "13",
+    "name": "SFAX",
+    "revenue": 75000.8,
+    "quantity": 280.0,
+    "orders": 2,
+    "customer_count": 1
+  },
+  {
+    "code": "06",
+    "name": "BEJA",
+    "revenue": 23867.7,
+    "quantity": 90.0,
+    "orders": 3,
+    "customer_count": 1
+  },
+  {
+    "code": "10",
+    "name": "GABES",
+    "revenue": 1300.5,
+    "quantity": 43.35,
+    "orders": 1,
+    "customer_count": 1
+  }
+]
